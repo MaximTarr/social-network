@@ -1,0 +1,25 @@
+.img{
+    max-width: 1000px;
+    min-height: 600px;
+    transition: .3s;
+
+    &:hover{
+        filter: blur(2px);
+    }
+}
+
+.bottomRight {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    display: none;
+
+    &:hover{
+        display: block;
+    }
+}
+
+.container {
+    position: relative;
+    text-align: center;
+}

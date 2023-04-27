@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "anime",
+      "password": "qwerty",
+      "avatar": "https://pibig.info/uploads/posts/2022-11/1668614625_3-pibig-info-p-izumi-miyamura-instagram-4.jpg"
+    },
+    {
+      "id": 2,
+      "login": "idzumi",
+      "password": "qwerty",
+      "avatar": "https://i.pinimg.com/736x/50/4c/bc/504cbc55d529de07d4a5322807a4e557.jpg"
+    },
+    {
+      "id": 3,
+      "login": "kyoko",
+      "password": "qwerty",
+      "avatar": "https://pibig.info/uploads/posts/2021-09/1632241433_11-pibig-info-p-khori-kyoko-anime-krasivo-foto-11.jpg"
+    },
+    {
+      "login": "arab",
+      "password": "zxc",
+      "avatar": "https://thenerdstash.com/wp-content/uploads/2021/12/Genshin-Impact-Arataki-Itto-Art.jpg",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "text": "Hori-san to Miyamura-kun (яп. 堀さんと宮村くん Хори-сан то Миямура-кун, букв. «Хори-сан и Миямура-кун») — сетевая манга, созданная Хироки Адати под псевдонимом Hero. Изначально с февраля 2007 по декабрь 2011 года она выходила в формате ёнкомы на сайте автора Dokkai Ahen. Позже она была издана Square Enix в виде 10 томов под импринтом Gangan Comics с 22 октября 2008 года по 28 декабря 2011. Дополнительные истории выходили под общим названием Hori-san to Miyamura-kun Omake (яп. 堀さんと宮村くん おまけ). С 2012 года на основе манги выходят OVA-серии.",
+      "image": "https://twinfinite.net/wp-content/uploads/2022/11/Chainsaw-Man-Anime-Makima-Staring-down-at-Denji-Screenshot.jpg?resize=1000%2C600",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "text": "some text 2",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_0.jpg",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "text": "some text 3",
+      "image": "https://i.ytimg.com/vi/bz7tAz9ks2o/maxresdefault.jpg",
+      "userId": 4
+    },
+    {
+      "id": 4,
+      "text": "some text 4",
+      "image": "https://i.ytimg.com/vi/bz7tAz9ks2o/maxresdefault.jpg",
+      "userId": 2
+    }
+  ]
+}
